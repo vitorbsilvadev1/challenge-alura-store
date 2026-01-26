@@ -33,4 +33,4 @@ Este projeto foi um desafio do módulo "Praticando Python para Data Science: Cha
 
 <br>
 
-Projeto feito graças ao programa Oracle Next Education. 
+<sub>Projeto feito durante o programa Oracle Next Education.</sub>
