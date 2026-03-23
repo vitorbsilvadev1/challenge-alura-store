@@ -10,7 +10,7 @@ Este projeto foi um desafio do módulo "Praticando Python para Data Science: Cha
 
   - **Lógica de Programação e Estruturas de Dados**: Apliquei estruturas de repetição, dicionários aninhados e funções personalizadas para automatizar a geração de relatórios por loja.
 
-  - **Data Storytelling**: Data Storytelling: Estruturei os resultados em um relatório de conclusão conciso, resumindo as principais descobertas e detalhando meu processo de pensamento até a decisão final de qual loja deveria ser vendida e por qual razão.
+  - **Data Storytelling**: Estruturei os resultados em um relatório de conclusão conciso, resumindo as principais descobertas e detalhando meu processo de pensamento até a decisão final de qual loja deveria ser vendida e por qual razão.
 
 ---
 ### Gráficos 
