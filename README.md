@@ -11,8 +11,9 @@ Este projeto foi um desafio do módulo "Praticando Python para Data Science: Cha
   - **Lógica de Programação e Estruturas de Dados**: Apliquei estruturas de repetição, dicionários aninhados e funções personalizadas para automatizar a geração de relatórios por loja.
 
   - **Data Storytelling**: Estruturei os resultados em um relatório de conclusão conciso, resumindo as principais descobertas e detalhando meu processo de pensamento até a decisão final de qual loja deveria ser vendida e por qual razão.
+    
 
-**Principais Insights**
+**Principais Insights:**
 
   - **Diagnóstico de Causa Raiz**: A análise identificou que o baixo faturamento da unidade crítica (Loja 4) não era um problema de volume de tráfego, mas de um desequilíbrio no mix de categorias, apresentando uma penetração 4,2% menor em Eletrodomésticos comparada às lojas líderes.
   
