@@ -12,6 +12,14 @@ Este projeto foi um desafio do módulo "Praticando Python para Data Science: Cha
 
   - **Data Storytelling**: Estruturei os resultados em um relatório de conclusão conciso, resumindo as principais descobertas e detalhando meu processo de pensamento até a decisão final de qual loja deveria ser vendida e por qual razão.
 
+**Principais Insights**
+
+  **Diagnóstico de Causa Raiz**: A análise identificou que o baixo faturamento da unidade crítica (Loja 4) não era um problema de volume de tráfego, mas de um desequilíbrio no mix de categorias, apresentando uma penetração 4,2% menor em Eletrodomésticos comparada às lojas líderes.
+  
+  **Benchmark de Performance**: Identificou-se que a estratégia vencedora (Loja 1) reside na paridade entre as categorias de Eletrônicos e Eletrodomésticos, enquanto a Loja 4 priorizava erroneamente o segmento de Móveis, que possuía menor tração.
+  
+  **Fundamentação de Desinvestimento**: Através da visualização de dados, foi possível comprovar que a Loja 4 operava com uma estratégia de vendas desalinhada à demanda de mercado, tornando-a a principal candidata para descontinuação, visando a saúde do portfólio geral.
+
 ---
 ### Gráficos 
 
